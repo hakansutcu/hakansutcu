@@ -1,7 +1,7 @@
 # Hey, I'm Hakan 👋
 
 ## 🎮 About Me
-I'm a Game Developer with 6+ years of professional experience building mobile games with Unity & C#. I've worked across hyper-casual, hybrid-casual, and indie game projects — shipping titles on both App Store and Google Play. I also founded my own game studio, Scope Games. Beyond game dev, I have experience with ASP.NET MVC, SQL, and cross-platform mobile development for iOS & Android.
+I'm a Game Developer with 7+ years of professional experience building mobile games with Unity & C#. I've worked across hyper-casual, hybrid-casual, and indie game projects — shipping titles on both App Store and Google Play. I also founded my own game studio, Scope Games. Beyond game dev, I have experience with ASP.NET MVC, SQL, and cross-platform mobile development for iOS & Android.
 
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hakansutcu/)
